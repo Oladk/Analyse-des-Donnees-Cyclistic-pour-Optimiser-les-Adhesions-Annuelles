@@ -117,5 +117,5 @@ Le projet inclut des visualisations clés :
 
 Clonez le dépôt :
 ```bash
-git clone [https://github.com/Oladk/cyclistic-analysis.git](https://github.com/Oladk/Analyse-des-Donnees-Cyclistic-pour-Optimiser-les-Adhesions-Annuelles.git)
+git clone https://github.com/Oladk/Analyse-des-Donnees-Cyclistic-pour-Optimiser-les-Adhesions-Annuelles.git
 
