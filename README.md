@@ -1,6 +1,6 @@
 # Analyse-des-Donnees-Cyclistic-pour-Optimiser-les-Adhesions-Annuelles
 
-Ce dépôt contient l'analyse des données Cyclistic pour comprendre les différences d'utilisation entre les membres annuels et les cyclistes occasionnels. L'objectif est d'identifier les comportements distincts et de proposer des recommandations pour optimiser les opérations et convertir les occasionnels en membres.
+Ce projet contient l'analyse des données Cyclistic pour comprendre les différences d'utilisation entre les membres annuels et les cyclistes occasionnels. L'objectif est d'identifier les comportements distincts et de proposer des recommandations pour optimiser les opérations et convertir les occasionnels en membres.
 
 ---
 
